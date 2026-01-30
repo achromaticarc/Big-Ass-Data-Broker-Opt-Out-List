@@ -8,7 +8,7 @@
 | 📞      | must pick up a (gasp!) phone                         |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
-This list, also known as BADBOOL, was started in September 2017 and was most recently updated on on December 18, 2025 to note that the list is primarily U.S.-based, and on November 22, 2025 to remove Dataveria, Verecor, and Vericora, and to provide additional information on corrections and pull requests we accept.
+This list, also known as BADBOOL, was started in September 2017 and was most recently updated on January 30, 2026 to update the opt-out link for Fast People Search, remove Ofsearch, and add info about California’s Delete Request and Opt-Out (DROP) portal.
 
 How to use this page: We recommend opting out of high-priority sites first. If you only have the time and patience for 13, start with sites marked 💐. If you can do 19 (total), go to sites marked ☠ as well. Once you’ve completed all of those, you can start to work your way through the rest of the list. We’ve reordered this list by priority for your convenience. 
 
