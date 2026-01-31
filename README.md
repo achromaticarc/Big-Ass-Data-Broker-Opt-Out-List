@@ -12,7 +12,7 @@ This list, also known as BADBOOL, was started in September 2017 and was most rec
 
 How to use this page: We recommend opting out of high-priority sites first. If you only have the time and patience for 13, start with sites marked 💐. If you can do 19 (total), go to sites marked ☠ as well. Once you’ve completed all of those, you can start to work your way through the rest of the list. We’ve reordered this list by priority for your convenience. 
 
-Note that this list is primarily U.S.-based since it is a volunteer project based in the U.S. 
+Note that this list is primarily U.S.-based since it is a volunteer project based in the U.S. While it is intended for people in all U.S. states, note that California residents can use the [Delete Request and Opt-Out (DROP) portal](http://consumer.drop.privacy.ca.gov) to demand deletion of personal data from 500+ registered data brokers with a single request form, for free.
 
 Please send corrections or updates to <yael@yaelwrites.com> using the subject line “BADBOOL,” or file a pull request. (You can find other ways to reach me [on the contact page on my website](https://yaelwrites.com/contact).) Screenshots in emails are incredibly helpful. With very few exceptions, I only add opt-out information if users can verify that the data broker has their information before sharing additional data. To make the site accessible to the largest number of people, I include listings where removal is not limited to people in jurisdictions with privacy laws, to specific professions, or to people who are able to provide police reports, court orders, or letters from credit reporting agencies, to prove they are at risk.
 
