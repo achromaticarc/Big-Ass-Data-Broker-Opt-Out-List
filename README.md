@@ -8,7 +8,7 @@
 | 📞      | must pick up a (gasp!) phone                         |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
-This list, also known as BADBOOL, was started in September 2017 and was most recently updated on April 26, 2026 with information on opting out of National Public Data. We also removed some resources that are no longer being updated, but plan to add new ones in future guides.
+This list, also known as BADBOOL, was started in September 2017 and was most recently updated on April 26, 2026 with information on opting out of National Public Data, and on April 30, 2026 to fix a link for TruePeopleSearch.net. We also removed some resources that are no longer being updated, but plan to add new ones in future guides.
 
 BADBOOL is and will always be free, but you are welcome to [buy me a coffee](https://ko-fi.com/kofisupporter11745)! 💕☕️ If you’d like to learn more about me and my other work, feel free to check out my website, [Yael Writes](https://yaelwrites.com/).
 
